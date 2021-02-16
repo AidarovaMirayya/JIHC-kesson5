@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn0" type="id" />
+    <item name="btnC" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="btnboth" type="id" />
+    <item name="btnperc" type="id" />
+    <item name="btnequal" type="id" />
+    <item name="btndivis" type="id" />
+    <item name="btnmulti" type="id" />
+</resources>
